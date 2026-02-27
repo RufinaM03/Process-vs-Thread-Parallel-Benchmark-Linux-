@@ -36,4 +36,4 @@ This project explores core Linux systems programming concepts:
 - Overhead becomes more visible with smaller workloads.
 
 ## Sample Output
-<img width="550" height="468" alt="image" src="https://github.com/user-attachments/assets/29abe3cc-6a9d-4287-8524-87ddb3c294be" />
+<img width="559" height="336" alt="image" src="https://github.com/user-attachments/assets/7d8e62f8-75cb-40ae-926a-edf93cb0f5cf" />
